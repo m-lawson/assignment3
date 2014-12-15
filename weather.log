@@ -1,0 +1,38 @@
+{
+    "time": 1418656897,
+    "summary": "Clear",
+    "icon": "clear-day",
+    "nearestStormDistance": 4,
+    "nearestStormBearing": 9,
+    "precipIntensity": 0,
+    "precipProbability": 0,
+    "temperature": 49.64,
+    "apparentTemperature": 49.64,
+    "dewPoint": 45.3,
+    "humidity": 0.85,
+    "windSpeed": 2.63,
+    "windBearing": 292,
+    "visibility": 9.65,
+    "cloudCover": 0.03,
+    "pressure": 1020.98,
+    "ozone": 288.79
+}
+{
+    "time": 1418656963,
+    "summary": "Clear",
+    "icon": "clear-day",
+    "nearestStormDistance": 8,
+    "nearestStormBearing": 205,
+    "precipIntensity": 0,
+    "precipProbability": 0,
+    "temperature": 50.23,
+    "apparentTemperature": 50.23,
+    "dewPoint": 45.17,
+    "humidity": 0.83,
+    "windSpeed": 2.53,
+    "windBearing": 290,
+    "visibility": 9.84,
+    "cloudCover": 0.04,
+    "pressure": 1021.17,
+    "ozone": 288.78
+}
